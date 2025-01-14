@@ -31,6 +31,19 @@
 ## Dashboard Image
 ![Dashboard_img](https://github.com/user-attachments/assets/83044551-fe4e-4ed6-a139-e35cf5fc69e2)
 
+## Output
+
+The script outputs various insights, including:
+
+- Customer order counts and unique customers.
+- Distribution of orders by device type.
+- Most common product categories and best-selling products.
+- Average Order Value (AOV) by gender.
+- Repeat vs. new customer statistics.
+- Most frequent order days and hours.
+- Monthly revenue trends.
+- Profit margins by product category.
+- Least performing products.
 
 
 
