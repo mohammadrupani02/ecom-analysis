@@ -5,11 +5,11 @@
 <a href="https://github.com/mohammadrupani02/ecom-analysis/blob/main/E-commerce%20Dataset.csv">E-commerce Data</a>
 
 ## Features
--Data Cleaning: Handles duplicates and missing values.\n
--Customer Behavior Analysis: Analyzes orders, unique customers, device usage, and product popularity.
--Order Insights: Examines AOV by gender, repeat vs. new customers, and order timing.
--Product Performance: Identifies top-selling and underperforming products; calculates profit margins.
--Revenue Trends: Tracks monthly revenue and seasonal patterns.
+•	Data Cleaning: Handles duplicates and missing values.
+•	Customer Behavior Analysis: Analyzes orders, unique customers, device usage, and product popularity.
+•	Order Insights: Examines AOV by gender, repeat vs. new customers, and order timing.
+•	Product Performance: Identifies top-selling and underperforming products; calculates profit margins.
+•	Revenue Trends: Tracks monthly revenue and seasonal patterns.
 
 ## Questions Addressed
 -What is the customer order count?
